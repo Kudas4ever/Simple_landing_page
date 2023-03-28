@@ -58,7 +58,7 @@
                 <a class="nav-link" id="link1" href="contact.html">Contact</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" id="link1" href="contact.html">Blog</a>
+                <a class="nav-link" id="link1" href="contact.php">Blog</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" id="link1" href="#">Register</a>
